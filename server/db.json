@@ -1,0 +1,173 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Today's List",
+      "desc": "Take out trash and do Homework",
+      "author": "Yoseph",
+      "complete": false,
+      "completedOn": null
+    },
+    {
+      "id": 2,
+      "title": "Tomorrow's List",
+      "content": "Wash the car and mow the lawn",
+      "author": "Yoseph",
+      "complete": false,
+      "completedOn": null
+    },
+    {
+      "title": "new todo",
+      "desc": "asdfasd",
+      "dateCreated": "Tue Jun 07 2022 18:23:14 GMT-0500 (Central Daylight Time)",
+      "complete": false,
+      "dateCompleted": null,
+      "id": 3
+    },
+    {
+      "title": "new todo",
+      "desc": "asdfasd",
+      "dateCreated": "Tue Jun 07 2022 18:24:40 GMT-0500 (Central Daylight Time)",
+      "complete": false,
+      "dateCompleted": null,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 15,
+      "username": "Yoseph",
+      "password": "123456"
+    },
+    {
+      "username": "fadafdas",
+      "password": "123456",
+      "id": 16
+    },
+    {
+      "username": "fadafdas",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 18
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 19
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 20
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 21
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 22
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 23
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 24
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 25
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 26
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 27
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 28
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 29
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 30
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 31
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 32
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 33
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 34
+    },
+    {
+      "username": "aa",
+      "password": "111950",
+      "id": 35
+    },
+    {
+      "username": "aa",
+      "password": "111950",
+      "id": 36
+    },
+    {
+      "username": "aa",
+      "password": "111950",
+      "id": 37
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 38
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 39
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 40
+    },
+    {
+      "username": "Yoseph",
+      "password": "123456",
+      "id": 41
+    }
+  ]
+}
